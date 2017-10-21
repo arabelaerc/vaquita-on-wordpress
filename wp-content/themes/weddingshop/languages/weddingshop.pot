@@ -1,0 +1,2588 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-20 03:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:29
+#, php-format
+msgid ""
+"<h1>404</h1><h2 class=\"page-title\">erroooor page!</h2>\n"
+"\t\t\t\t\t\t<p>Something&rsquo;s not quite right here...</p>\n"
+"\t\t\t\t\t\t\t<a class=\"back-home\" href=\"%s\">Back to home</a>"
+msgstr ""
+
+#: archive.php:20
+msgid "Day: "
+msgstr ""
+
+#: archive.php:23
+msgid "Month: "
+msgstr ""
+
+#: archive.php:23
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:26
+msgid "Year: "
+msgstr ""
+
+#: archive.php:26
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:29
+msgid "Search Results for: "
+msgstr ""
+
+#: archive.php:32
+msgid "Tag: "
+msgstr ""
+
+#: archive.php:35
+msgid "Category: "
+msgstr ""
+
+#: archive.php:38
+msgid "OOPS! FILE NOT FOUND"
+msgstr ""
+
+#: archive.php:41
+msgid "Archives"
+msgstr ""
+
+#: archive.php:88 index.php:65 search.php:43
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:89 index.php:66 search.php:44
+msgid "Next page"
+msgstr ""
+
+#: archive.php:90 functions.php:1179 index.php:67 search.php:45
+msgid "Page"
+msgstr ""
+
+#: comments.php:33
+msgid "Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Reply"
+msgstr ""
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:39 footer.php:39
+msgid "Back to Top"
+msgstr ""
+
+#: functions.php:63
+msgid "Custom Sidebar Name"
+msgstr ""
+
+#: functions.php:64
+msgid "Add Sidebar"
+msgstr ""
+
+#: functions.php:188
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:189
+msgid "Vertical Navigation"
+msgstr ""
+
+#: functions.php:313
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:323
+msgid "Social Links Menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Libre Franklin, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:400
+msgid "on"
+msgstr ""
+
+#. %s: Name of current post
+#: functions.php:455 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:46
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:569
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:570
+msgid "Collapse child menu"
+msgstr ""
+
+#: functions.php:813
+msgid "Search ..."
+msgstr ""
+
+#: functions.php:817 searchform.php:17
+msgid "Search"
+msgstr ""
+
+#: functions.php:820
+msgid "All categories"
+msgstr ""
+
+#: functions.php:967
+#, php-format
+msgid "View all %d results"
+msgstr ""
+
+#: functions.php:1172
+msgid "Home"
+msgstr ""
+
+#: functions.php:1175
+msgid "Search results for "
+msgstr ""
+
+#: functions.php:1176
+msgid "Error 404"
+msgstr ""
+
+#: functions.php:1177
+msgid "Tagged "
+msgstr ""
+
+#: functions.php:1178
+msgid "Articles posted by "
+msgstr ""
+
+#: functions.php:1180
+msgid "Portfolio"
+msgstr ""
+
+#: header-layout2.php:31 header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: index.php:22 admin/functions/functions.options.php:1107
+#: admin/functions/functions.options.php:1112
+#: admin/functions/functions.options.php:1115
+msgid "Blog"
+msgstr ""
+
+#: index.php:33
+msgid "Posts"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:21
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:50
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:14
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:16
+msgid "Search &hellip;"
+msgstr ""
+
+#: single.php:47
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:47
+msgid "Previous"
+msgstr ""
+
+#: single.php:48
+msgid "Next Post"
+msgstr ""
+
+#: single.php:48
+msgid "Next"
+msgstr ""
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+#, php-format
+msgid ""
+"weddingshop requires at least WordPress version 4.7. You are running version "
+"%s. Please upgrade and try again."
+msgstr ""
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:116
+msgid "Play background video"
+msgstr ""
+
+#: inc/custom-header.php:117
+msgid "Pause background video"
+msgstr ""
+
+#: inc/customizer.php:46 admin/functions/functions.options.php:787
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:48 inc/advanceoptions/page_options.php:134
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:77 inc/advanceoptions/page_options.php:20
+#: inc/advanceoptions/page_options.php:39
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid ""
+"When the two column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+
+#: inc/customizer.php:82 inc/customizer.php:129
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:83 inc/customizer.php:130
+msgid "Two Column"
+msgstr ""
+
+#. %d is the front page section number
+#: inc/customizer.php:107
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/register_sidebar.php:6
+msgid "Home Sidebar"
+msgstr ""
+
+#: inc/register_sidebar.php:15
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/register_sidebar.php:24
+msgid "Blog Detail Sidebar"
+msgstr ""
+
+#: inc/register_sidebar.php:33
+msgid "Product Category Sidebar"
+msgstr ""
+
+#: inc/register_sidebar.php:42
+msgid "Product Category Top Content"
+msgstr ""
+
+#: inc/register_sidebar.php:51
+msgid "Product Detail Sidebar"
+msgstr ""
+
+#: inc/register_sidebar.php:60
+msgid "Product Detail Social Icon"
+msgstr ""
+
+#: inc/register_sidebar.php:64
+msgid "Add social icon in your product detail page."
+msgstr ""
+
+#: inc/register_sidebar.php:70
+msgid "Footer Top"
+msgstr ""
+
+#: inc/register_sidebar.php:74 inc/register_sidebar.php:81
+#: inc/register_sidebar.php:88
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/register_sidebar.php:77
+msgid "Footer Middle"
+msgstr ""
+
+#: inc/register_sidebar.php:84 inc/advanceoptions/page_options.php:312
+msgid "Footer Bottom"
+msgstr ""
+
+#: inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#. %s: post date
+#: inc/template-tags.php:51
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:84 inc/woo/hooks.php:499
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:88 inc/woo/hooks.php:502
+msgid "Tags"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:117
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:154
+#, php-format
+msgid "Front Page Section %1$s Placeholder"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:44
+#, php-format
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product_cat.php:48
+msgid "Shop Now"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:587
+msgid "No backups yet"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:594
+msgid "Last Backup : "
+msgstr ""
+
+#: admin/classes/class.options_machine.php:595
+#: admin/classes/class.options_machine.php:595
+msgid "Backup Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:596
+#: admin/classes/class.options_machine.php:596
+#: admin/classes/class.options_machine.php:606
+msgid "Restore Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:606
+msgid "Import Options"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:688
+msgid "On"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:695
+msgid "Off"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:817
+msgid "Upload"
+msgstr ""
+
+#: admin/classes/class.options_machine.php:820
+msgid "Remove"
+msgstr ""
+
+#: admin/front-end/options.php:4
+msgid "Options Updated"
+msgstr ""
+
+#: admin/front-end/options.php:8 admin/front-end/options.php:69
+msgid "Options Reset"
+msgstr ""
+
+#: admin/front-end/options.php:12
+msgid "Error!"
+msgstr ""
+
+#: admin/front-end/options.php:28
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: admin/front-end/options.php:43 admin/front-end/options.php:68
+msgid "Save All Changes"
+msgstr ""
+
+#: admin/functions/functions.options.php:16
+msgid "Custom Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:711
+msgid "General"
+msgstr ""
+
+#: admin/functions/functions.options.php:716
+#: admin/functions/functions.options.php:719
+msgid "Logo - Favicon"
+msgstr ""
+
+#: admin/functions/functions.options.php:724
+msgid "Logo Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:725
+msgid "Select an image file for the main logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:731
+msgid "Favicon Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:732
+msgid "Accept ICO files"
+msgstr ""
+
+#: admin/functions/functions.options.php:738
+msgid "Text Logo"
+msgstr ""
+
+#: admin/functions/functions.options.php:745
+#: admin/functions/functions.options.php:748
+msgid "Back To Top Button"
+msgstr ""
+
+#: admin/functions/functions.options.php:753
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: admin/functions/functions.options.php:761
+msgid "Enable Back To Top Button On Mobile"
+msgstr ""
+
+#: admin/functions/functions.options.php:769
+#: admin/functions/functions.options.php:772
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/functions/functions.options.php:777
+msgid "Enter your API key"
+msgstr ""
+
+#: admin/functions/functions.options.php:792
+msgid "Select Color Scheme of Theme"
+msgstr ""
+
+#: admin/functions/functions.options.php:805
+#: admin/functions/functions.options.php:808
+msgid "General Colors"
+msgstr ""
+
+#: admin/functions/functions.options.php:813
+#: admin/functions/functions.options.php:816
+msgid "Primary Colors"
+msgstr ""
+
+#: admin/functions/functions.options.php:821
+msgid "Primary Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:828
+#: admin/functions/functions.options.php:831
+#: admin/functions/functions.options.php:843
+msgid "Secondary Colors"
+msgstr ""
+
+#: admin/functions/functions.options.php:836
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:846
+msgid "Body Background Colors"
+msgstr ""
+
+#: admin/functions/functions.options.php:851
+msgid "Body Background Color"
+msgstr ""
+
+#: admin/functions/functions.options.php:860
+msgid "Typography"
+msgstr ""
+
+#: admin/functions/functions.options.php:865
+#: admin/functions/functions.options.php:868
+msgid "Fonts"
+msgstr ""
+
+#: admin/functions/functions.options.php:873
+#: admin/functions/functions.options.php:876
+msgid "Body Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:881
+msgid "Body Font - Enable Google Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:886
+#: admin/functions/functions.options.php:925
+#: admin/functions/functions.options.php:1032
+#: admin/functions/functions.options.php:1041
+#: admin/functions/functions.options.php:1050
+#: admin/functions/functions.options.php:1059
+#: admin/functions/functions.options.php:1068
+#: admin/functions/functions.options.php:1077
+msgid "Enable"
+msgstr ""
+
+#: admin/functions/functions.options.php:887
+#: admin/functions/functions.options.php:926
+#: admin/functions/functions.options.php:1033
+#: admin/functions/functions.options.php:1042
+#: admin/functions/functions.options.php:1051
+#: admin/functions/functions.options.php:1060
+#: admin/functions/functions.options.php:1069
+#: admin/functions/functions.options.php:1078
+msgid "Disable"
+msgstr ""
+
+#: admin/functions/functions.options.php:891
+msgid "Body Font - Family Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:899
+msgid "Body Font - Google Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:905
+#: admin/functions/functions.options.php:944
+msgid "This is my font preview!"
+msgstr ""
+
+#: admin/functions/functions.options.php:912
+#: admin/functions/functions.options.php:915
+msgid "Secondary Body Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:920
+msgid "Secondary Body Font - Enable Google Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:930
+msgid "Secondary Body Font - Family Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:938
+msgid "Secondary Body Font - Google Font"
+msgstr ""
+
+#: admin/functions/functions.options.php:950
+#: admin/functions/functions.options.php:953
+msgid "Font Sizes - Line Height"
+msgstr ""
+
+#: admin/functions/functions.options.php:959
+#: admin/functions/functions.options.php:962
+#: admin/functions/functions.options.php:967
+msgid "Body Font Size"
+msgstr ""
+
+#: admin/functions/functions.options.php:968
+msgid "In pixels. Default is 14px"
+msgstr ""
+
+#: admin/functions/functions.options.php:977
+msgid "Body Font Line Height"
+msgstr ""
+
+#: admin/functions/functions.options.php:978
+msgid "In pixels. Default is 24px"
+msgstr ""
+
+#: admin/functions/functions.options.php:989
+msgid "Header"
+msgstr ""
+
+#: admin/functions/functions.options.php:994
+#: admin/functions/functions.options.php:997
+msgid "Header Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1002
+#: inc/advanceoptions/page_options.php:99
+msgid "Header Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1014
+msgid "Header nav Information"
+msgstr ""
+
+#: admin/functions/functions.options.php:1015
+msgid "You can add your email, phone number"
+msgstr ""
+
+#: admin/functions/functions.options.php:1021
+msgid "Header Content - Infomation"
+msgstr ""
+
+#: admin/functions/functions.options.php:1022
+msgid "This option is only used for the eighth header layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1028
+msgid "Header Currency"
+msgstr ""
+
+#: admin/functions/functions.options.php:1029
+msgid ""
+"If you don't install WooCommerce Multilingual plugin, it will display demo "
+"html"
+msgstr ""
+
+#: admin/functions/functions.options.php:1037
+msgid "Header Language"
+msgstr ""
+
+#: admin/functions/functions.options.php:1038
+msgid "If you don't install WPML plugin, it will display demo html"
+msgstr ""
+
+#: admin/functions/functions.options.php:1046
+msgid "Shopping Cart"
+msgstr ""
+
+#: admin/functions/functions.options.php:1055
+msgid "Search Bar"
+msgstr ""
+
+#: admin/functions/functions.options.php:1064 inc/woo/functions.php:36
+#: inc/woo/functions.php:36
+msgid "My Account"
+msgstr ""
+
+#: admin/functions/functions.options.php:1073 inc/woo/functions.php:188
+#: inc/woo/functions.php:189 inc/woo/hooks.php:657
+msgid "Wishlist"
+msgstr ""
+
+#: admin/functions/functions.options.php:1082
+#: admin/functions/functions.options.php:1085
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:1090 inc/woo/term.php:31
+#: inc/woo/term.php:126
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1091
+msgid "Select a new image to override current background image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1097
+msgid "Enable Breadcrumb Background Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1098
+msgid ""
+"You can set background color by going to Color Scheme tab > Breadcrumb "
+"Colors section"
+msgstr ""
+
+#: admin/functions/functions.options.php:1120
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1121
+msgid ""
+"Select main content and sidebar alignment. It is available when Front page "
+"displays the latest posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:1133
+#: admin/functions/functions.options.php:1255
+#: admin/functions/functions.options.php:1540
+#: admin/functions/functions.options.php:1706
+#: inc/advanceoptions/page_options.php:44
+#: inc/advanceoptions/page_options.php:52
+#: inc/advanceoptions/post_options.php:26
+#: inc/advanceoptions/post_options.php:34
+#: inc/advanceoptions/product_options.php:26
+#: inc/advanceoptions/product_options.php:34 inc/woo/term.php:48
+#: inc/woo/term.php:55 inc/woo/term.php:153 inc/woo/term.php:161
+msgid "Left Sidebar"
+msgstr ""
+
+#: admin/functions/functions.options.php:1140
+#: admin/functions/functions.options.php:1262
+#: admin/functions/functions.options.php:1546
+#: admin/functions/functions.options.php:1712
+#: inc/advanceoptions/page_options.php:45
+#: inc/advanceoptions/page_options.php:60
+#: inc/advanceoptions/post_options.php:27
+#: inc/advanceoptions/post_options.php:42
+#: inc/advanceoptions/product_options.php:27
+#: inc/advanceoptions/product_options.php:42 inc/woo/term.php:49
+#: inc/woo/term.php:65 inc/woo/term.php:154 inc/woo/term.php:173
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/functions/functions.options.php:1147
+#: admin/functions/functions.options.php:1269
+msgid "Blog Thumbnail"
+msgstr ""
+
+#: admin/functions/functions.options.php:1151
+#: admin/functions/functions.options.php:1160
+#: admin/functions/functions.options.php:1169
+#: admin/functions/functions.options.php:1178
+#: admin/functions/functions.options.php:1187
+#: admin/functions/functions.options.php:1196
+#: admin/functions/functions.options.php:1205
+#: admin/functions/functions.options.php:1214
+#: admin/functions/functions.options.php:1273
+#: admin/functions/functions.options.php:1282
+#: admin/functions/functions.options.php:1291
+#: admin/functions/functions.options.php:1300
+#: admin/functions/functions.options.php:1309
+#: admin/functions/functions.options.php:1318
+#: admin/functions/functions.options.php:1327
+#: admin/functions/functions.options.php:1336
+#: admin/functions/functions.options.php:1345
+#: admin/functions/functions.options.php:1576
+#: admin/functions/functions.options.php:1585
+#: admin/functions/functions.options.php:1594
+#: admin/functions/functions.options.php:1603
+#: admin/functions/functions.options.php:1612
+#: admin/functions/functions.options.php:1621
+#: admin/functions/functions.options.php:1630
+#: admin/functions/functions.options.php:1639
+#: admin/functions/functions.options.php:1648
+#: admin/functions/functions.options.php:1657
+#: admin/functions/functions.options.php:1673
+#: admin/functions/functions.options.php:1737
+#: admin/functions/functions.options.php:1746
+#: admin/functions/functions.options.php:1755
+#: admin/functions/functions.options.php:1771
+#: admin/functions/functions.options.php:1780
+#: admin/functions/functions.options.php:1789
+#: admin/functions/functions.options.php:1798
+#: admin/functions/functions.options.php:1807
+#: admin/functions/functions.options.php:1816
+#: admin/functions/functions.options.php:1825
+#: admin/functions/functions.options.php:1834
+#: admin/functions/functions.options.php:1843
+#: admin/functions/functions.options.php:1852
+#: admin/functions/functions.options.php:1888
+#: admin/functions/functions.options.php:1917
+#: admin/functions/functions.options.php:1951
+#: admin/functions/functions.options.php:1976
+#: admin/functions/functions.options.php:1985
+msgid "Show"
+msgstr ""
+
+#: admin/functions/functions.options.php:1152
+#: admin/functions/functions.options.php:1161
+#: admin/functions/functions.options.php:1170
+#: admin/functions/functions.options.php:1179
+#: admin/functions/functions.options.php:1188
+#: admin/functions/functions.options.php:1197
+#: admin/functions/functions.options.php:1206
+#: admin/functions/functions.options.php:1215
+#: admin/functions/functions.options.php:1274
+#: admin/functions/functions.options.php:1283
+#: admin/functions/functions.options.php:1292
+#: admin/functions/functions.options.php:1301
+#: admin/functions/functions.options.php:1310
+#: admin/functions/functions.options.php:1319
+#: admin/functions/functions.options.php:1328
+#: admin/functions/functions.options.php:1337
+#: admin/functions/functions.options.php:1346
+#: admin/functions/functions.options.php:1577
+#: admin/functions/functions.options.php:1586
+#: admin/functions/functions.options.php:1595
+#: admin/functions/functions.options.php:1604
+#: admin/functions/functions.options.php:1613
+#: admin/functions/functions.options.php:1622
+#: admin/functions/functions.options.php:1631
+#: admin/functions/functions.options.php:1640
+#: admin/functions/functions.options.php:1649
+#: admin/functions/functions.options.php:1658
+#: admin/functions/functions.options.php:1674
+#: admin/functions/functions.options.php:1738
+#: admin/functions/functions.options.php:1747
+#: admin/functions/functions.options.php:1756
+#: admin/functions/functions.options.php:1772
+#: admin/functions/functions.options.php:1781
+#: admin/functions/functions.options.php:1790
+#: admin/functions/functions.options.php:1799
+#: admin/functions/functions.options.php:1808
+#: admin/functions/functions.options.php:1817
+#: admin/functions/functions.options.php:1826
+#: admin/functions/functions.options.php:1835
+#: admin/functions/functions.options.php:1844
+#: admin/functions/functions.options.php:1853
+#: admin/functions/functions.options.php:1889
+#: admin/functions/functions.options.php:1918
+#: admin/functions/functions.options.php:1952
+#: admin/functions/functions.options.php:1977
+#: admin/functions/functions.options.php:1986
+msgid "Hide"
+msgstr ""
+
+#: admin/functions/functions.options.php:1156
+#: admin/functions/functions.options.php:1278
+msgid "Blog Date"
+msgstr ""
+
+#: admin/functions/functions.options.php:1165
+#: admin/functions/functions.options.php:1287
+msgid "Blog Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:1174
+msgid "Blog Author"
+msgstr ""
+
+#: admin/functions/functions.options.php:1183
+msgid "Blog Comment"
+msgstr ""
+
+#: admin/functions/functions.options.php:1192
+msgid "Blog Read More Button"
+msgstr ""
+
+#: admin/functions/functions.options.php:1201
+#: admin/functions/functions.options.php:1314
+msgid "Blog Categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:1210
+msgid "Blog Excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:1219
+msgid "Blog Excerpt Strip All Tags"
+msgstr ""
+
+#: admin/functions/functions.options.php:1220
+msgid "Strip all html tags in Excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:1226
+msgid "Blog Excerpt Max Words"
+msgstr ""
+
+#: admin/functions/functions.options.php:1227
+msgid "Input -1 to show full excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:1234
+#: admin/functions/functions.options.php:1237
+msgid "Blog Details"
+msgstr ""
+
+#: admin/functions/functions.options.php:1242
+msgid "Blog Details Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1243
+#: admin/functions/functions.options.php:1528
+#: admin/functions/functions.options.php:1694
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: admin/functions/functions.options.php:1296
+msgid "Blog Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1305
+msgid "Blog Tags"
+msgstr ""
+
+#: admin/functions/functions.options.php:1323
+msgid "Blog Author Box"
+msgstr ""
+
+#: admin/functions/functions.options.php:1332
+msgid "Blog Related Posts"
+msgstr ""
+
+#: admin/functions/functions.options.php:1341
+msgid "Blog Comment Form"
+msgstr ""
+
+#: admin/functions/functions.options.php:1352
+msgid "WooCommerce"
+msgstr ""
+
+#: admin/functions/functions.options.php:1358
+#: admin/functions/functions.options.php:1361
+#: admin/functions/functions.options.php:1590
+#: admin/functions/functions.options.php:1742
+msgid "Product Label"
+msgstr ""
+
+#: admin/functions/functions.options.php:1366
+msgid "Product Sale Label Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:1373
+msgid "Product Feature Label Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:1380
+msgid "Product Out Of Stock Label Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:1387
+msgid "Show Sale Label As"
+msgstr ""
+
+#: admin/functions/functions.options.php:1393
+msgid "Text"
+msgstr ""
+
+#: admin/functions/functions.options.php:1394
+msgid "Number"
+msgstr ""
+
+#: admin/functions/functions.options.php:1395
+msgid "Percent"
+msgstr ""
+
+#: admin/functions/functions.options.php:1400
+#: admin/functions/functions.options.php:1403
+msgid "Product Hover Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:1408
+msgid "Hover Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:1414
+msgid "Style 1"
+msgstr ""
+
+#: admin/functions/functions.options.php:1415
+msgid "Style 2"
+msgstr ""
+
+#: admin/functions/functions.options.php:1416
+msgid "Style 3"
+msgstr ""
+
+#: admin/functions/functions.options.php:1420
+#: admin/functions/functions.options.php:1428
+msgid "Enable Second Product Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1423
+msgid "Back Product Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1429
+msgid ""
+"Show second product image on hover. It will show an image from Product "
+"Gallery"
+msgstr ""
+
+#: admin/functions/functions.options.php:1442
+#: admin/functions/functions.options.php:1445
+msgid "Lazy Load"
+msgstr ""
+
+#: admin/functions/functions.options.php:1450
+msgid "Activate Lazy Load"
+msgstr ""
+
+#: admin/functions/functions.options.php:1457
+#: inc/vc_extension/update_param.php:85
+msgid "Placeholder Image"
+msgstr ""
+
+#: admin/functions/functions.options.php:1465
+#: admin/functions/functions.options.php:1468
+msgid "Quickshop"
+msgstr ""
+
+#: admin/functions/functions.options.php:1473
+msgid "Activate Quickshop"
+msgstr ""
+
+#: admin/functions/functions.options.php:1481
+#: admin/functions/functions.options.php:1484
+msgid "Catalog Mode"
+msgstr ""
+
+#: admin/functions/functions.options.php:1489
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: admin/functions/functions.options.php:1490
+msgid ""
+"Hide all Add To Cart buttons on your site. You can also hide Shopping cart "
+"by going to Header tab > turn Shopping Cart option off"
+msgstr ""
+
+#: admin/functions/functions.options.php:1497
+#: admin/functions/functions.options.php:1500
+msgid "Ajax Search"
+msgstr ""
+
+#: admin/functions/functions.options.php:1505
+msgid "Enable Ajax Search"
+msgstr ""
+
+#: admin/functions/functions.options.php:1512
+msgid "Number Of Results"
+msgstr ""
+
+#: admin/functions/functions.options.php:1513
+msgid "Input -1 to show all results"
+msgstr ""
+
+#: admin/functions/functions.options.php:1522
+msgid "Product Category"
+msgstr ""
+
+#: admin/functions/functions.options.php:1527
+msgid "Product Category Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1553
+msgid "Product Columns"
+msgstr ""
+
+#: admin/functions/functions.options.php:1565
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1566
+msgid "Number of products per page"
+msgstr ""
+
+#: admin/functions/functions.options.php:1572
+msgid "Top Content Widget Area"
+msgstr ""
+
+#: admin/functions/functions.options.php:1573
+msgid "Display Product Category Top Content widget area"
+msgstr ""
+
+#: admin/functions/functions.options.php:1581
+#: admin/functions/functions.options.php:1733
+msgid "Product Thumbnail"
+msgstr ""
+
+#: admin/functions/functions.options.php:1599
+#: admin/functions/functions.options.php:1830
+msgid "Product Categories"
+msgstr ""
+
+#: admin/functions/functions.options.php:1608
+#: admin/functions/functions.options.php:1751
+msgid "Product Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:1617
+#: admin/functions/functions.options.php:1776
+msgid "Product SKU"
+msgstr ""
+
+#: admin/functions/functions.options.php:1626
+#: admin/functions/functions.options.php:1767
+msgid "Product Rating"
+msgstr ""
+
+#: admin/functions/functions.options.php:1635
+#: admin/functions/functions.options.php:1812
+msgid "Product Price"
+msgstr ""
+
+#: admin/functions/functions.options.php:1644
+#: admin/functions/functions.options.php:1821
+msgid "Product Add To Cart Button"
+msgstr ""
+
+#: admin/functions/functions.options.php:1653
+msgid "Product Short Description - Grid View"
+msgstr ""
+
+#: admin/functions/functions.options.php:1654
+msgid "Show product description on grid view"
+msgstr ""
+
+#: admin/functions/functions.options.php:1662
+msgid "Product Short Description - Grid View - Limit Words"
+msgstr ""
+
+#: admin/functions/functions.options.php:1663
+msgid ""
+"Number of words to show product description on grid view. It is also used "
+"for product shortcode"
+msgstr ""
+
+#: admin/functions/functions.options.php:1669
+msgid "Product Short Description - List View"
+msgstr ""
+
+#: admin/functions/functions.options.php:1670
+msgid "Show product description on list view"
+msgstr ""
+
+#: admin/functions/functions.options.php:1678
+msgid "Product Short Description - List View - Limit Words"
+msgstr ""
+
+#: admin/functions/functions.options.php:1679
+msgid "Number of words to show product description on list view"
+msgstr ""
+
+#: admin/functions/functions.options.php:1688
+msgid "Product Details"
+msgstr ""
+
+#: admin/functions/functions.options.php:1693
+#: inc/advanceoptions/product_options.php:13
+#: inc/advanceoptions/product_options.php:20
+msgid "Product Layout"
+msgstr ""
+
+#: admin/functions/functions.options.php:1719
+msgid "Product Cloud Zoom"
+msgstr ""
+
+#: admin/functions/functions.options.php:1720
+msgid ""
+"If you turn it off, product gallery images will open in a lightbox. This "
+"option overrides the option of WooCommerce"
+msgstr ""
+
+#: admin/functions/functions.options.php:1726
+msgid "Product Attribute Dropdown"
+msgstr ""
+
+#: admin/functions/functions.options.php:1727
+msgid ""
+"If you turn it off, the dropdown will be replaced by image or text label"
+msgstr ""
+
+#: admin/functions/functions.options.php:1760
+msgid "Product Title In Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1761
+msgid ""
+"Display the product title in the page content instead of above the "
+"breadcrumbs"
+msgstr ""
+
+#: admin/functions/functions.options.php:1785
+msgid "Product Availability"
+msgstr ""
+
+#: admin/functions/functions.options.php:1794
+msgid "Product Excerpt"
+msgstr ""
+
+#: admin/functions/functions.options.php:1803
+msgid "Product Count Down"
+msgstr ""
+
+#: admin/functions/functions.options.php:1804
+msgid "You have to activate weddingshopThemes plugin"
+msgstr ""
+
+#: admin/functions/functions.options.php:1839
+msgid "Product Tags"
+msgstr ""
+
+#: admin/functions/functions.options.php:1848
+msgid "Product Sharing"
+msgstr ""
+
+#: admin/functions/functions.options.php:1857
+#: admin/functions/functions.options.php:1860 inc/widgets/products.php:317
+msgid "Product Thumbnails"
+msgstr ""
+
+#: admin/functions/functions.options.php:1865
+msgid "Product Thumbnails Style"
+msgstr ""
+
+#: admin/functions/functions.options.php:1871
+msgid "Vertical"
+msgstr ""
+
+#: admin/functions/functions.options.php:1872
+msgid "Horizontal"
+msgstr ""
+
+#: admin/functions/functions.options.php:1876
+#: admin/functions/functions.options.php:1879
+#: admin/functions/functions.options.php:1884
+msgid "Product Tabs"
+msgstr ""
+
+#: admin/functions/functions.options.php:1885
+msgid "Enable Product Tabs"
+msgstr ""
+
+#: admin/functions/functions.options.php:1893
+msgid "Product Tabs As Accordion"
+msgstr ""
+
+#: admin/functions/functions.options.php:1901
+msgid "Product Tabs Position"
+msgstr ""
+
+#: admin/functions/functions.options.php:1908
+msgid "After Summary"
+msgstr ""
+
+#: admin/functions/functions.options.php:1909
+msgid "Inside Summary"
+msgstr ""
+
+#: admin/functions/functions.options.php:1913
+msgid "Product Custom Tab"
+msgstr ""
+
+#: admin/functions/functions.options.php:1923
+msgid "Product Custom Tab Title"
+msgstr ""
+
+#: admin/functions/functions.options.php:1931
+msgid "Product Custom Tab Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1939
+msgid "Product Ads Banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:1942
+#: admin/functions/functions.options.php:1947
+msgid "Ads Banner"
+msgstr ""
+
+#: admin/functions/functions.options.php:1956
+msgid "Ads Banner Content"
+msgstr ""
+
+#: admin/functions/functions.options.php:1964
+#: admin/functions/functions.options.php:1967
+msgid "Related - Up-Sell Products"
+msgstr ""
+
+#: admin/functions/functions.options.php:1972
+msgid "Up-Sell Products"
+msgstr ""
+
+#: admin/functions/functions.options.php:1981
+msgid "Related Products"
+msgstr ""
+
+#: admin/functions/functions.options.php:1993
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: admin/functions/functions.options.php:1998
+msgid "Custom CSS Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:1999
+msgid "You don't need to add the style tag"
+msgstr ""
+
+#: admin/functions/functions.options.php:2005
+msgid "Custom Javascript Code"
+msgstr ""
+
+#: admin/functions/functions.options.php:2006
+msgid "You don't need to add the script tag"
+msgstr ""
+
+#: admin/functions/functions.options.php:2016
+msgid "Backup"
+msgstr ""
+
+#: admin/functions/functions.options.php:2021
+msgid "Backup and Restore Options"
+msgstr ""
+
+#: admin/functions/functions.options.php:2025
+msgid ""
+"You can use the two buttons below to backup your current options, and then "
+"restore it back at a later time. This is useful if you want to experiment on "
+"the options but would like to keep the old settings in case you need it back."
+msgstr ""
+
+#: admin/functions/functions.options.php:2028
+msgid "Transfer Theme Options Data"
+msgstr ""
+
+#: admin/functions/functions.options.php:2032
+msgid ""
+"You can tranfer the saved options data between different installs by copying "
+"the text inside the text box. To import data from another install, replace "
+"the data in the text box with the one from another install and click Import "
+"Options."
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:18
+msgid "Page Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:23
+msgid "Testimonial Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:28
+msgid "Member Information"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:33
+msgid "Portfolio Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:38
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:45
+msgid "Logo Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:50
+msgid "Product Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:55
+msgid "Post Options"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:60
+msgid "Post Gallery"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:190
+msgid "Select Image"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:191
+msgid "Clear Image"
+msgstr ""
+
+#: inc/advanceoptions/advanceoptions.php:227
+msgid "Add Images"
+msgstr ""
+
+#: inc/advanceoptions/logo_options.php:6
+msgid "Logo URL"
+msgstr ""
+
+#: inc/advanceoptions/logo_options.php:13
+msgid "Target"
+msgstr ""
+
+#: inc/advanceoptions/logo_options.php:17
+msgid "Self"
+msgstr ""
+
+#: inc/advanceoptions/logo_options.php:18
+msgid "New Window Tab"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:10
+#: inc/advanceoptions/page_options.php:31
+#: inc/advanceoptions/page_options.php:103
+#: inc/advanceoptions/page_options.php:133
+#: inc/advanceoptions/page_options.php:174
+#: inc/advanceoptions/page_options.php:187
+#: inc/advanceoptions/post_options.php:5 inc/advanceoptions/post_options.php:24
+#: inc/advanceoptions/product_options.php:5
+#: inc/advanceoptions/product_options.php:24
+#: inc/advanceoptions/product_options.php:61
+#: inc/vc_extension/update_param.php:23 inc/vc_extension/update_param.php:143
+#: inc/vc_extension/update_param.php:187 inc/woo/term.php:46
+#: inc/woo/term.php:57 inc/woo/term.php:67 inc/woo/term.php:151
+#: inc/woo/term.php:164 inc/woo/term.php:176
+msgid "Default"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:27
+msgid "Layout Style"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:32 inc/vc_extension/update_param.php:12
+msgid "Boxed"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:33 inc/vc_extension/update_param.php:11
+msgid "Wide"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:43
+#: inc/advanceoptions/post_options.php:25
+#: inc/advanceoptions/product_options.php:25 inc/woo/term.php:47
+#: inc/woo/term.php:152
+msgid "Fullwidth"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:46
+#: inc/advanceoptions/post_options.php:28
+#: inc/advanceoptions/product_options.php:28 inc/woo/term.php:50
+#: inc/woo/term.php:155
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:68
+msgid "Left Right Padding"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:72
+#: inc/advanceoptions/page_options.php:84
+#: inc/advanceoptions/page_options.php:121
+#: inc/advanceoptions/page_options.php:152
+#: inc/advanceoptions/page_options.php:163
+#: inc/advanceoptions/page_options.php:188
+msgid "Yes"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:73
+#: inc/advanceoptions/page_options.php:85
+#: inc/advanceoptions/page_options.php:122
+#: inc/advanceoptions/page_options.php:153
+#: inc/advanceoptions/page_options.php:164
+#: inc/advanceoptions/page_options.php:189
+msgid "No"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:80
+msgid "Full Page"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:92
+msgid "Header - Breadcrumb"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:104
+msgid "Header Layout 1"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:105
+msgid "Header Layout 2"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:106
+msgid "Header Layout 3"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:107
+msgid "Header Layout 4"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:108
+msgid "Header Layout 5"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:109
+msgid "Header Layout 6"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:110
+msgid "Header Layout 7"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:111
+msgid "Header Layout 8"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:117
+msgid "Transparent Header"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:129
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:130
+msgid "Only available on transparent header"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:140
+#: template-parts/navigation/navigation-primary.php:12
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:148
+msgid "Show Page Title"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:159
+msgid "Show Breadcrumb"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:170
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:175
+msgid "Breadcrumb Layout 1"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:176
+msgid "Breadcrumb Layout 2"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:177
+msgid "Breadcrumb Layout 3"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:183
+msgid "Breadcrumb Background Parallax"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:195
+#: inc/advanceoptions/post_options.php:50
+#: inc/advanceoptions/product_options.php:89
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:202
+msgid "Logo"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:209
+msgid "Mobile Logo"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:216
+msgid "Sticky Logo"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:223
+#: inc/advanceoptions/page_options.php:238
+msgid "Page Slider"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:231
+msgid "No Slider"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:233
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:246
+msgid "Page Slider Position"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:250
+msgid "Before Header"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:251
+msgid "Before Main Content"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:259
+msgid "Select a slider"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:269
+msgid "Select Revolution Slider"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:297
+msgid "Page Footer"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:298
+msgid "You also need to add the FTC - Footer widget into Footer widget"
+msgstr ""
+
+#: inc/advanceoptions/page_options.php:304
+msgid "Footer Center"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:13
+#: inc/advanceoptions/post_options.php:20
+msgid "Post Layout"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:57
+msgid "Post Audio"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:64
+msgid "Audio URL"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:65
+msgid "Enter MP3, OGG, WAV file URL or SoundCloud URL"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:71
+msgid "Post Video"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:78
+#: inc/advanceoptions/product_options.php:103
+msgid "Video URL"
+msgstr ""
+
+#: inc/advanceoptions/post_options.php:79
+#: inc/advanceoptions/product_options.php:104
+msgid "Enter Youtube or Vimeo video URL"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:50
+#: inc/advanceoptions/product_options.php:57
+msgid "Custom Tab"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:62
+msgid "Override"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:68
+msgid "Custom Tab Title"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:75
+msgid "Custom Tab Content"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:82
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/advanceoptions/product_options.php:96
+msgid "Video"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:6
+msgid "Gravatar Email Address"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:7
+msgid ""
+"Enter in an e-mail address, to use a Gravatar, instead of using the "
+"\"Featured Image\". You have to remove the \"Featured Image\"."
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:13
+msgid "Byline"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:14
+msgid ""
+"Enter a byline for the customer giving this testimonial (for example: \"CEO "
+"of ThemeFTC\")."
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:20
+msgid "URL"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:21
+msgid ""
+"Enter a URL that applies to this customer (for example: http://themeftc.com/)"
+"."
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:27
+msgid "Rating"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:31
+msgid "no rating"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:32
+msgid "0 star"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:33
+msgid "0.5 star"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:34
+msgid "1 star"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:35
+msgid "1.5 star"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:36
+msgid "2 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:37
+msgid "2.5 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:38
+msgid "3 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:39
+msgid "3.5 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:40
+msgid "4 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:41
+msgid "4.5 stars"
+msgstr ""
+
+#: inc/advanceoptions/testimonial_options.php:42
+msgid "5 stars"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:8 inc/woo/term.php:44 inc/woo/term.php:148
+msgid "Layout"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:14
+msgid "Only support Fullwidth Template"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:20
+msgid "Background Type"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:24
+msgid "Parallax"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:25
+msgid "Youtube Video"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:26
+msgid "Hosted Video"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:28 inc/vc_extension/update_param.php:39
+#: inc/vc_extension/update_param.php:49 inc/vc_extension/update_param.php:59
+#: inc/vc_extension/update_param.php:69 inc/vc_extension/update_param.php:79
+#: inc/vc_extension/update_param.php:89 inc/vc_extension/update_param.php:100
+#: inc/vc_extension/update_param.php:111 inc/vc_extension/update_param.php:125
+msgid "Background"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:29
+msgid "Note: Youtube Video does not work on mobile"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:35
+msgid "Background Image"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:45
+msgid "Parallax Speed"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:55
+msgid "Youtube Video URL"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:65
+msgid "MP4 Video URL"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:75
+msgid "WebM / Ogg Video URL"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:95
+msgid "Start Time"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:99 inc/vc_extension/update_param.php:110
+msgid "In seconds"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:106
+msgid "Stop Time"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:117
+msgid "Extra Options"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:120
+msgid "Loop"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:121
+msgid "Muted"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:122
+msgid "Auto Play"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:140 inc/vc_extension/update_param.php:184
+msgid "Style"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:144 inc/vc_extension/update_param.php:188
+msgid "Default - No Border"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:145 inc/vc_extension/update_param.php:189
+msgid "Tab Title With Background Color"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:146 inc/vc_extension/update_param.php:190
+msgid "Tab Title With Top Border"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:196
+msgid "Add image?"
+msgstr ""
+
+#: inc/vc_extension/update_param.php:197
+msgid "Add image next to section title."
+msgstr ""
+
+#: inc/vc_extension/update_param.php:205
+msgid "Image"
+msgstr ""
+
+#: inc/widgets/blogs.php:13
+msgid "Display blogs on site"
+msgstr ""
+
+#: inc/widgets/blogs.php:14
+msgid "FTC - Blogs"
+msgstr ""
+
+#: inc/widgets/blogs.php:265 inc/widgets/feedburner_subscription.php:100
+#: inc/widgets/products.php:253 inc/widgets/product_categories.php:115
+#: inc/widgets/recent_comments.php:157
+msgid "Enter your title"
+msgstr ""
+
+#: inc/widgets/blogs.php:270 inc/widgets/blogs_tabs.php:212
+msgid "Number of posts to show"
+msgstr ""
+
+#: inc/widgets/blogs.php:275 inc/widgets/product_categories.php:150
+msgid "Order by"
+msgstr ""
+
+#: inc/widgets/blogs.php:277 inc/widgets/product_categories.php:156
+msgid "None"
+msgstr ""
+
+#: inc/widgets/blogs.php:278
+msgid "ID"
+msgstr ""
+
+#: inc/widgets/blogs.php:279
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/blogs.php:280
+msgid "Date"
+msgstr ""
+
+#: inc/widgets/blogs.php:281
+msgid "Comment count"
+msgstr ""
+
+#: inc/widgets/blogs.php:282 inc/widgets/product_categories.php:155
+msgid "Random"
+msgstr ""
+
+#: inc/widgets/blogs.php:287 inc/widgets/product_categories.php:160
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/blogs.php:289 inc/widgets/product_categories.php:162
+msgid "Ascending"
+msgstr ""
+
+#: inc/widgets/blogs.php:290 inc/widgets/product_categories.php:163
+msgid "Descending"
+msgstr ""
+
+#: inc/widgets/blogs.php:295 inc/widgets/products.php:270
+#: inc/widgets/product_categories.php:131
+msgid "Select categories"
+msgstr ""
+
+#: inc/widgets/blogs.php:315 inc/widgets/blogs_tabs.php:218
+msgid "Show post thumbnail"
+msgstr ""
+
+#: inc/widgets/blogs.php:320 inc/widgets/blogs_tabs.php:223
+msgid "Show post title"
+msgstr ""
+
+#: inc/widgets/blogs.php:325 inc/widgets/blogs_tabs.php:228
+msgid "Show post date"
+msgstr ""
+
+#: inc/widgets/blogs.php:330 inc/widgets/blogs_tabs.php:233
+msgid "Show post author"
+msgstr ""
+
+#: inc/widgets/blogs.php:335 inc/widgets/blogs_tabs.php:238
+msgid "Show post comment"
+msgstr ""
+
+#: inc/widgets/blogs.php:340 inc/widgets/blogs_tabs.php:243
+msgid "Show post excerpt"
+msgstr ""
+
+#: inc/widgets/blogs.php:344 inc/widgets/blogs_tabs.php:247
+msgid "Number of words in excerpt"
+msgstr ""
+
+#: inc/widgets/blogs.php:352 inc/widgets/products.php:347
+#: inc/widgets/recent_comments.php:199
+msgid "Show in a carousel slider"
+msgstr ""
+
+#: inc/widgets/blogs.php:356 inc/widgets/products.php:289
+#: inc/widgets/recent_comments.php:203
+msgid "Number of rows - in carousel slider"
+msgstr ""
+
+#: inc/widgets/blogs.php:362 inc/widgets/products.php:352
+#: inc/widgets/recent_comments.php:209
+msgid "Show navigation button"
+msgstr ""
+
+#: inc/widgets/blogs.php:367 inc/widgets/products.php:357
+#: inc/widgets/recent_comments.php:214
+msgid "Auto play"
+msgstr ""
+
+#: inc/widgets/blogs_tabs.php:13
+msgid "Display popular and recent blogs in tabs"
+msgstr ""
+
+#: inc/widgets/blogs_tabs.php:14
+msgid "FTC - Blogs Tabs"
+msgstr ""
+
+#: inc/widgets/blogs_tabs.php:202
+msgid "Popular tab title"
+msgstr ""
+
+#: inc/widgets/blogs_tabs.php:207
+msgid "Recent tab title"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:13
+msgid "Display Feedburner Subscriptions Form"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:15
+msgid "FTC - Feedburner Subscription"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:96
+msgid "Enter your Feedburner ID"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:104
+msgid "Enter your Intro Text Line 1"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:108
+msgid "Enter your Intro Text Line 2"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:112
+msgid "Enter your button text"
+msgstr ""
+
+#: inc/widgets/feedburner_subscription.php:116
+msgid "Placeholder text"
+msgstr ""
+
+#: inc/widgets/products.php:13
+msgid "Display your products on site"
+msgstr ""
+
+#: inc/widgets/products.php:14
+msgid "FTC - Products"
+msgstr ""
+
+#: inc/widgets/products.php:258
+msgid "Product type"
+msgstr ""
+
+#: inc/widgets/products.php:260
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/products.php:261
+msgid "Sale"
+msgstr ""
+
+#: inc/widgets/products.php:262 template-parts/post/content.php:84
+msgid "Featured"
+msgstr ""
+
+#: inc/widgets/products.php:263
+msgid "Best selling"
+msgstr ""
+
+#: inc/widgets/products.php:264
+msgid "Top rated"
+msgstr ""
+
+#: inc/widgets/products.php:265
+msgid "Mixed order"
+msgstr ""
+
+#: inc/widgets/products.php:295
+msgid "Columns"
+msgstr ""
+
+#: inc/widgets/products.php:300
+msgid "Margin"
+msgstr ""
+
+#: inc/widgets/products.php:305
+msgid "Number of products to show"
+msgstr ""
+
+#: inc/widgets/products.php:311
+msgid "Show thumbnail"
+msgstr ""
+
+#: inc/widgets/products.php:315
+msgid "Thumbnail size"
+msgstr ""
+
+#: inc/widgets/products.php:318
+msgid "Catalog Images"
+msgstr ""
+
+#: inc/widgets/products.php:319
+msgid "Single Product Image"
+msgstr ""
+
+#: inc/widgets/products.php:325
+msgid "Show categories"
+msgstr ""
+
+#: inc/widgets/products.php:330
+msgid "Show product title"
+msgstr ""
+
+#: inc/widgets/products.php:335
+msgid "Show price"
+msgstr ""
+
+#: inc/widgets/products.php:340
+msgid "Show rating"
+msgstr ""
+
+#: inc/widgets/product_categories.php:13
+msgid "Display Your Product Categories"
+msgstr ""
+
+#: inc/widgets/product_categories.php:14
+msgid "FTC - Product Categories"
+msgstr ""
+
+#: inc/widgets/product_categories.php:120
+msgid "Show post count"
+msgstr ""
+
+#: inc/widgets/product_categories.php:124
+msgid "Show sub categories"
+msgstr ""
+
+#: inc/widgets/product_categories.php:128
+msgid "Hide empty categories"
+msgstr ""
+
+#: inc/widgets/product_categories.php:147
+msgid "Don't select to show all"
+msgstr ""
+
+#: inc/widgets/product_categories.php:152
+msgid "Name"
+msgstr ""
+
+#: inc/widgets/product_categories.php:153
+msgid "Slug"
+msgstr ""
+
+#: inc/widgets/product_categories.php:154
+msgid "Number product"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:13
+msgid "Display recent comments on site"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:14
+msgid "FTC - Recent Comments"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:154
+msgid "All Posts"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:162
+msgid "Post type"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:171
+msgid "Number of comments to show"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:177
+msgid "Show avatar"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:182
+msgid "Show comment date"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:187
+msgid "Show comment author"
+msgstr ""
+
+#: inc/widgets/recent_comments.php:192
+msgid "Show comment content"
+msgstr ""
+
+#: inc/woo/functions.php:32 inc/woo/functions.php:32 inc/woo/functions.php:55
+msgid "Login"
+msgstr ""
+
+#: inc/woo/functions.php:34
+msgid "Create New Account"
+msgstr ""
+
+#: inc/woo/functions.php:34
+msgid "Sign up"
+msgstr ""
+
+#: inc/woo/functions.php:37 inc/woo/functions.php:37
+msgid "Logout"
+msgstr ""
+
+#: inc/woo/functions.php:46
+msgid "Username"
+msgstr ""
+
+#: inc/woo/functions.php:50
+msgid "Password"
+msgstr ""
+
+#: inc/woo/functions.php:61 inc/woo/functions.php:61
+msgid "Forgot Your Password?"
+msgstr ""
+
+#: inc/woo/functions.php:87
+msgid "View your shopping bag"
+msgstr ""
+
+#: inc/woo/functions.php:93 inc/woo/functions.php:96
+msgid " Item(s) "
+msgstr ""
+
+#: inc/woo/functions.php:100
+msgid " Item(s)"
+msgstr ""
+
+#: inc/woo/functions.php:107
+msgid "Your shopping cart is empty"
+msgstr ""
+
+#: inc/woo/functions.php:132 woocommerce/cart/cart.php:61
+#: woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: inc/woo/functions.php:139
+msgid "Subtotal :"
+msgstr ""
+
+#: inc/woo/functions.php:141
+msgid "View cart"
+msgstr ""
+
+#: inc/woo/functions.php:142 woocommerce/cart/mini-cart.php:88
+msgid "Checkout"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:13 inc/woo/grid_list_toggle.php:26
+msgid "Default catalog view"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:18
+msgid "Catalog view"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:22
+msgid "Display option to show product in grid or list view"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:27
+msgid "Display products in grid or list view by default"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:31
+msgid "Grid"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:32
+msgid "List"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:135 inc/woo/grid_list_toggle.php:135
+msgid "Grid view"
+msgstr ""
+
+#: inc/woo/grid_list_toggle.php:135 inc/woo/grid_list_toggle.php:135
+msgid "List view"
+msgstr ""
+
+#: inc/woo/hooks.php:54 inc/woo/hooks.php:63 inc/woo/hooks.php:78
+msgid "In stock"
+msgstr ""
+
+#: inc/woo/hooks.php:58
+#, php-format
+msgid "Only %s left in stock"
+msgstr ""
+
+#: inc/woo/hooks.php:60 inc/woo/hooks.php:69
+msgid "(can be backordered)"
+msgstr ""
+
+#: inc/woo/hooks.php:67
+#, php-format
+msgid "%s in stock"
+msgstr ""
+
+#: inc/woo/hooks.php:75 woocommerce/cart/cart.php:93
+msgid "Available on backorder"
+msgstr ""
+
+#: inc/woo/hooks.php:81 inc/woo/hooks.php:85
+msgid "Out of stock"
+msgstr ""
+
+#: inc/woo/hooks.php:287 template-parts/post/content.php:135
+msgid "Categories: "
+msgstr ""
+
+#: inc/woo/hooks.php:313
+msgid "Filter"
+msgstr ""
+
+#: inc/woo/hooks.php:476
+msgid "Email to a Friend"
+msgstr ""
+
+#: inc/woo/hooks.php:480
+msgid "Print"
+msgstr ""
+
+#: inc/woo/hooks.php:511
+msgid "Sku: "
+msgstr ""
+
+#: inc/woo/hooks.php:511
+msgid "N/A"
+msgstr ""
+
+#: inc/woo/hooks.php:518
+msgid "In Stock"
+msgstr ""
+
+#: inc/woo/hooks.php:661 inc/woo/hooks.php:665
+msgid "Added to wishlist"
+msgstr ""
+
+#: inc/woo/hooks.php:737
+msgid "Continue Shopping"
+msgstr ""
+
+#: inc/woo/quickshop.php:16
+msgid "Quick view"
+msgstr ""
+
+#: inc/woo/term.php:38 inc/woo/term.php:84 inc/woo/term.php:97
+#: inc/woo/term.php:141 inc/woo/term.php:202 inc/woo/term.php:224
+msgid "Upload/Add image"
+msgstr ""
+
+#: inc/woo/term.php:39 inc/woo/term.php:85 inc/woo/term.php:98
+#: inc/woo/term.php:142 inc/woo/term.php:203 inc/woo/term.php:225
+msgid "Remove image"
+msgstr ""
+
+#: inc/woo/term.php:77 inc/woo/term.php:187
+msgid "Banner"
+msgstr ""
+
+#: inc/woo/term.php:90 inc/woo/term.php:209
+msgid "Icon"
+msgstr ""
+
+#: inc/woo/term.php:103 inc/woo/term.php:231
+msgid "Top border color"
+msgstr ""
+
+#: template-parts/navigation/navigation-primary.php:16
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-page.php:21
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content.php:104
+#: template-parts/post/related-posts.php:154
+msgid "Read More"
+msgstr ""
+
+#: template-parts/post/content.php:143
+msgid "Post by "
+msgstr ""
+
+#: template-parts/post/related-posts.php:44
+msgid "Related Posts"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36
+msgid "Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:98
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/cart.php:38 woocommerce/cart/cart.php:104
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:39 woocommerce/cart/cart.php:121
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:80
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:139
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:74
+msgid "No products in the cart."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:82
+msgid "Subtotal"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:26
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:26
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:34
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:32
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:45
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:73
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:78
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:62
+msgid "Placeholder"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:29
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:31
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:32
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:35
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/rating.php:41
+msgid "Write your comment"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: inc/vc_extension/templates/vc_tabs.php:53
+#: inc/vc_extension/templates/vc_tabs.php:53
+msgid "Previous tab"
+msgstr ""
+
+#: inc/vc_extension/templates/vc_tabs.php:53
+#: inc/vc_extension/templates/vc_tabs.php:53
+msgid "Next tab"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:38
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:126
+msgid "Clear selection"
+msgstr ""
+
+#. Name of the theme
+msgid "WeddingShop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"weddingshop brings your site to life with header video and immersive "
+"featured images. With a focus on business sites, it features multiple "
+"sections on the front page as well as widgets, navigation and social menus, "
+"a logo, and more. Personalize its asymmetrical grid with a custom color "
+"scheme and showcase your multimedia content with post formats. Our default "
+"theme for 2017 works great in many languages, for any abilities, and on any "
+"device."
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.themeftc.com/woo_weddingshop/store"
+msgstr ""
+
+#. Author of the theme
+msgid "the ThemeFTC team"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://demo.themeftc.com/"
+msgstr ""
